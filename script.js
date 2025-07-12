@@ -62,7 +62,7 @@ let output = `
 Student name: ${internName}
 Task one score: ${taskOne}
 Task two score: ${taskTwo}
-Task three score: ${taskTwo}
+Task three score: ${taskThree}
 Average: ${averageRounded}
 Final grade: ${grade}
 Remark: ${message}
